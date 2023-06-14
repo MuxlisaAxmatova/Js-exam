@@ -37,7 +37,7 @@ function evenOrOdd(number) {
       }
       console.log(trafficLight("green"));
       console.log(trafficLight("yellow")); 
-      console.log(trafficLight("red"));
+      console.log(trafficLight("red"));           
 
        //10-masala
 
@@ -73,5 +73,4 @@ function evenOrOdd(number) {
         return sum;
       }
       var arr = [1, 2, 2];
-      console.log(sumOfSquares(arr)); 
-      
+      console.log(sumOfSquares(arr));
